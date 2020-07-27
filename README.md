@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **AkkozaDevelops/AkkozaDevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Welcome to my profile
+My name is Jonathan, but I go by Akkoza and or AkkozaDevelops on the internet.
+
+I am a 14 y/o programmer that currently specializes in Lua and Javascript
+
+If you want to checkout some of my work, head over to my [website](https://www.mywaifuis.digital/)!
