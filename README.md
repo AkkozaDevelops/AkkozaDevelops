@@ -24,8 +24,8 @@ I am a 14 y/o programmer that currently specializes in Lua and Javascript
 If you want to checkout some of my work, head over to my [website](https://www.mywaifuis.digital/)!
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkkozaDevelops&show_icons=true&theme=dracula" alt="HooferDevelop's Language Usages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkkozaDevelops&show_icons=true&theme=dracula" alt="Akkoza's Language Usages">
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkkozaDevelops&hide=css&theme=dracula" alt="HooferDevelop's Language Usages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkkozaDevelops&hide=css&theme=dracula" alt="Akkoza's Language Usages">
 </p>
