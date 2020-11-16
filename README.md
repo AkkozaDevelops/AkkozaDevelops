@@ -23,6 +23,11 @@ I am a 14 y/o programmer that currently programs in Lua, Javascript, a bit of Py
 
 If you want to checkout some of my work, head over to my [website](https://www.mywaifuis.digital/)!
 
+## Spotify
+[![Spotify](https://novatorem-b1zrxxjw6.vercel.app/api/spotify)](https://open.spotify.com/user/ok7v5s90z0h2cjt6bowifazaf)
+
+## GitHub Stats
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkkozaDevelops&show_icons=true&theme=dracula" alt="Akkoza's Language Usages">
 </p>
