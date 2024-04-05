@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Welcome to my profile
 My name is Jonathan, but I go by Akkoza and or AkkozaDevelops on the internet.
 
-I am a 17 y/o programmer that currently programs in Lua, Javascript, a bit of Python.
+I am a 18 y/o programmer that currently programs in Lua, Javascript, a bit of Python.
 
 If you want to checkout some of my work, head over to my [website](https://www.mywaifuis.digital/)!
 
